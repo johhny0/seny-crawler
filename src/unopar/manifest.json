@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "UnoparReader",
+    "version": "1.0",
+    "description": "Read the activities and publish them to Seny DB",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.colaboraread.com.br/aluno/dashboard/index*"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ]
+}
