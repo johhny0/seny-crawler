@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const jetpack = require("fs-jetpack");
 const cheerio = require("cheerio");
 const { read, write } = require("../shared/processedFiles");
