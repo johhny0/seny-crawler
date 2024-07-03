@@ -1,3 +1,4 @@
-/websites/**/*.htm
 node_modules/
-src/data/*
+src/unopar/data/*
+!src/unopar/data/.gitkeep
+src/unopar/websites/**/*.htm
