@@ -1,15 +1,45 @@
-$(".cargo-creature-table tbody tr a:first-child").each((i, e) => {
-  
-    const name = e.title
-    
-    fetch("http://localhost:3000/ark/dinos", {
-              method: 'POST', // Método da requisição
-              headers: {
-                  'Content-Type': 'application/json' // Tipo de conteúdo
-              },
-              body: JSON.stringify({name}) // Corpo da requisição
-          })
-          .then(response => response.json()) // Processa a resposta em JSON
-          .then(() => console.log(`${name} salvo com sucesso`))
-          .catch(error => console.error('Erro ao enviar dados:', error));
-  })
+function extractDinosInfo() {
+    const tabela = document.querySelector('.cargo-creature-table');
+    const linhas = tabela.querySelectorAll('tbody tr');
+
+    const dados = [];
+
+    const indiceNome = 0;
+
+    for (const linha of linhas) {
+
+        const name = linha.cells[indiceNome].textContent.trim();
+        const link = linha.cells[indiceNome].querySelector('a').href;
+
+        dados.push({ name, link });
+    }
+
+    return dados;
+}
+
+async function saveDino(dinos) {
+    for (const dino of dinos) {
+        try {
+            const response = await fetch("http://localhost:3000/ark/dinos", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(dino)
+            })
+            
+            const message = await response.json();
+
+            console.log(`Response: ${dino.name} --- ${message.msg} `)
+        } catch (error) {
+            console.error('Error saving dino:', error)
+        }
+    }
+}
+
+async function main() {
+    const dinos = extractDinosInfo();
+    await saveDino(dinos);
+}
+
+main().then(() => console.log("SUCCESS!!!!"))
