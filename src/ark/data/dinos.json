@@ -1,0 +1,1244 @@
+[
+  {
+    "name": "Achatina",
+    "link": "/wiki/Achatina",
+    "img": "/images/thumb/1/18/Achatina.png/30px-Achatina.png",
+    "entityId": "Achatina_Character_BP_C"
+  },
+  {
+    "name": "Allosaurus",
+    "link": "/wiki/Allosaurus",
+    "img": "/images/thumb/7/77/Allosaurus.png/30px-Allosaurus.png",
+    "entityId": "Allo_Character_BP_C"
+  },
+  {
+    "name": "Amargasaurus",
+    "link": "/wiki/Amargasaurus",
+    "img": "/images/thumb/9/92/Amargasaurus.png/30px-Amargasaurus.png",
+    "entityId": "Amargasaurus_Character_BP_C"
+  },
+  {
+    "name": "Ammonite",
+    "link": "/wiki/Ammonite",
+    "img": "/images/thumb/8/8b/Ammonite.png/30px-Ammonite.png",
+    "entityId": "Ammonite_Character_C"
+  },
+  {
+    "name": "Andrewsarchus",
+    "link": "/wiki/Andrewsarchus",
+    "img": "/images/thumb/c/ce/Andrewsarchus.png/30px-Andrewsarchus.png",
+    "entityId": "Andrewsarchus_Character_BP_C"
+  },
+  {
+    "name": "Anglerfish",
+    "link": "/wiki/Anglerfish",
+    "img": "/images/thumb/6/64/Anglerfish.png/30px-Anglerfish.png",
+    "entityId": "Angler_Character_BP_C"
+  },
+  {
+    "name": "Ankylosaurus",
+    "link": "/wiki/Ankylosaurus",
+    "img": "/images/thumb/a/a7/Ankylosaurus.png/30px-Ankylosaurus.png",
+    "entityId": "Ankylo_Character_BP_C"
+  },
+  {
+    "name": "Araneo",
+    "link": "/wiki/Araneo",
+    "img": "/images/thumb/8/84/Spider.png/30px-Spider.png",
+    "entityId": "SpiderS_Character_BP_C"
+  },
+  {
+    "name": "Archaeopteryx",
+    "link": "/wiki/Archaeopteryx",
+    "img": "/images/thumb/8/8a/Archaeopteryx.png/30px-Archaeopteryx.png",
+    "entityId": "Archa_Character_BP_C"
+  },
+  {
+    "name": "Archelon",
+    "link": "/wiki/Archelon",
+    "img": "/images/thumb/8/8b/Archelon.png/30px-Archelon.png",
+    "entityId": "Archelon_Character_BP_ASA_C"
+  },
+  {
+    "name": "Argentavis",
+    "link": "/wiki/Argentavis",
+    "img": "/images/thumb/7/77/Argentavis.png/30px-Argentavis.png",
+    "entityId": "Argent_Character_BP_C"
+  },
+  {
+    "name": "Arthropluera",
+    "link": "/wiki/Arthropluera",
+    "img": "/images/thumb/3/31/Arthropluera.png/30px-Arthropluera.png",
+    "entityId": "Arthro_Character_BP_C"
+  },
+  {
+    "name": "Astrocetus",
+    "link": "/wiki/Astrocetus",
+    "img": "/images/thumb/6/69/Astrocetus.png/30px-Astrocetus.png",
+    "entityId": "SpaceWhale_Character_BP_C"
+  },
+  {
+    "name": "Astrodelphis",
+    "link": "/wiki/Astrodelphis",
+    "img": "/images/thumb/2/25/Astrodelphis.png/30px-Astrodelphis.png",
+    "entityId": "SpaceDolphin_Character_BP_C"
+  },
+  {
+    "name": "Attack Drone",
+    "link": "/wiki/Attack_Drone",
+    "img": "/images/thumb/e/ea/Attack_Drone.png/30px-Attack_Drone.png",
+    "entityId": "EndDrone_Character_BP_C"
+  },
+  {
+    "name": "Baryonyx",
+    "link": "/wiki/Baryonyx",
+    "img": "/images/thumb/c/c0/Baryonyx.png/30px-Baryonyx.png",
+    "entityId": "Baryonyx_Character_BP_C"
+  },
+  {
+    "name": "Basilisk",
+    "link": "/wiki/Basilisk",
+    "img": "/images/thumb/b/b1/Basilisk.png/30px-Basilisk.png",
+    "entityId": "Basilisk_Character_BP_C"
+  },
+  {
+    "name": "Basilosaurus",
+    "link": "/wiki/Basilosaurus",
+    "img": "/images/thumb/7/73/Basilosaurus.png/30px-Basilosaurus.png",
+    "entityId": "Basilosaurus_Character_BP_C"
+  },
+  {
+    "name": "Beelzebufo",
+    "link": "/wiki/Beelzebufo",
+    "img": "/images/thumb/f/f6/Beelzebufo.png/30px-Beelzebufo.png",
+    "entityId": "Toad_Character_BP_C"
+  },
+  {
+    "name": "Beyla",
+    "link": "/wiki/Beyla",
+    "img": "/images/thumb/e/ef/Beyla.png/30px-Beyla.png",
+    "entityId": "Beyla_Character_BP_C"
+  },
+  {
+    "name": "Beyla Spawn",
+    "link": "/wiki/Beyla_Spawn",
+    "img": "/images/thumb/e/e3/Beyla_Spawn.png/30px-Beyla_Spawn.png",
+    "entityId": "BeylaMinion_Character_BP_C"
+  },
+  {
+    "name": "Bloodstalker",
+    "link": "/wiki/Bloodstalker",
+    "img": "/images/thumb/1/1a/Bloodstalker.png/30px-Bloodstalker.png",
+    "entityId": "BogSpider_Character_BP_C"
+  },
+  {
+    "name": "Brontosaurus",
+    "link": "/wiki/Brontosaurus",
+    "img": "/images/thumb/4/47/Brontosaurus.png/30px-Brontosaurus.png",
+    "entityId": "Sauropod_Character_BP_C"
+  },
+  {
+    "name": "Broodmother Lysrix",
+    "link": "/wiki/Broodmother_Lysrix",
+    "img": "/images/thumb/1/19/Broodmother.png/30px-Broodmother.png",
+    "entityId": "SpiderL_Character_BP_C"
+  },
+  {
+    "name": "Bulbdog",
+    "link": "/wiki/Bulbdog",
+    "img": "/images/thumb/1/1c/Bulbdog.png/30px-Bulbdog.png",
+    "entityId": "LanternPug_Character_BP_C"
+  },
+  {
+    "name": "Carbonemys",
+    "link": "/wiki/Carbonemys",
+    "img": "/images/thumb/4/4c/Carbonemys.png/30px-Carbonemys.png",
+    "entityId": "Turtle_Character_BP_C"
+  },
+  {
+    "name": "Carcharodontosaurus",
+    "link": "/wiki/Carcharodontosaurus",
+    "img": "/images/thumb/5/52/Carcharodontosaurus.png/30px-Carcharodontosaurus.png",
+    "entityId": "Carcha_Character_BP_C"
+  },
+  {
+    "name": "Carnotaurus",
+    "link": "/wiki/Carnotaurus",
+    "img": "/images/thumb/8/84/Carnotaurus.png/30px-Carnotaurus.png",
+    "entityId": "Carno_Character_BP_C"
+  },
+  {
+    "name": "Castoroides",
+    "link": "/wiki/Castoroides",
+    "img": "/images/thumb/a/af/Giant_Beaver.png/30px-Giant_Beaver.png",
+    "entityId": "Beaver_Character_BP_C"
+  },
+  {
+    "name": "Ceratosaurus",
+    "link": "/wiki/Ceratosaurus",
+    "img": "/images/thumb/6/6a/Ceratosaurus.png/30px-Ceratosaurus.png",
+    "entityId": "Ceratosaurus_Character_BP_ASA_C"
+  },
+  {
+    "name": "Chalicotherium",
+    "link": "/wiki/Chalicotherium",
+    "img": "/images/thumb/3/3a/Chalicotherium.png/30px-Chalicotherium.png",
+    "entityId": "Chalico_Character_BP_C"
+  },
+  {
+    "name": "Cnidaria",
+    "link": "/wiki/Cnidaria",
+    "img": "/images/thumb/0/00/Cnidaria.png/30px-Cnidaria.png",
+    "entityId": "Cnidaria_Character_BP_C"
+  },
+  {
+    "name": "Coelacanth",
+    "link": "/wiki/Coelacanth",
+    "img": "/images/thumb/4/4b/Coelacanth.png/30px-Coelacanth.png",
+    "entityId": "Coel_Character_BP_C"
+  },
+  {
+    "name": "Compy",
+    "link": "/wiki/Compy",
+    "img": "/images/thumb/9/92/Compy.png/30px-Compy.png",
+    "entityId": "Compy_Character_BP_C"
+  },
+  {
+    "name": "Corrupted Avatar",
+    "link": "/wiki/Corrupted_Avatar",
+    "img": "/images/thumb/f/fa/Corrupted_Avatar.png/30px-Corrupted_Avatar.png",
+    "entityId": "Bot_Character_BP_C"
+  },
+  {
+    "name": "Corrupted Master Controller",
+    "link": "/wiki/Corrupted_Master_Controller",
+    "img": "/images/thumb/8/83/Corrupted_Master_Controller.png/30px-Corrupted_Master_Controller.png",
+    "entityId": "VRMainBoss_Character_C"
+  },
+  {
+    "name": "Corrupted Survivor",
+    "link": "/wiki/Corrupted_Survivor",
+    "img": "/images/thumb/f/fc/Corrupted_Survivor.png/30px-Corrupted_Survivor.png",
+    "entityId": "CorruptHuman_Character_BP_BASE_C"
+  },
+  {
+    "name": "Cosmo",
+    "link": "/wiki/Cosmo",
+    "img": "/images/thumb/9/9c/Cosmo.png/30px-Cosmo.png",
+    "entityId": "JumpingSpider_Character_BP_C"
+  },
+  {
+    "name": "Crystal Wyvern",
+    "link": "/wiki/Crystal_Wyvern",
+    "img": "/images/thumb/1/11/Crystal_Wyvern.png/30px-Crystal_Wyvern.png",
+    "entityId": "CrystalWyvern_Character_BP_C"
+  },
+  {
+    "name": "Crystal Wyvern Queen",
+    "link": "/wiki/Crystal_Wyvern_Queen",
+    "img": "/images/thumb/d/dd/Crystal_Wyvern_Queen.png/30px-Crystal_Wyvern_Queen.png",
+    "entityId": "CrystalWyvern_Character_BP_Boss_C"
+  },
+  {
+    "name": "Daeodon",
+    "link": "/wiki/Daeodon",
+    "img": "/images/thumb/5/5f/Daeodon.png/30px-Daeodon.png",
+    "entityId": "Daeodon_Character_BP_C"
+  },
+  {
+    "name": "Deathworm",
+    "link": "/wiki/Deathworm",
+    "img": "/images/thumb/8/86/Deathworm.png/30px-Deathworm.png",
+    "entityId": "Deathworm_Character_BP_C"
+  },
+  {
+    "name": "Defense Unit",
+    "link": "/wiki/Defense_Unit",
+    "img": "/images/thumb/7/78/Defense_Unit.png/30px-Defense_Unit.png",
+    "entityId": "EndTank_Character_BP_C"
+  },
+  {
+    "name": "Deinonychus",
+    "link": "/wiki/Deinonychus",
+    "img": "/images/thumb/4/4e/Deinonychus.png/30px-Deinonychus.png",
+    "entityId": "Deinonychus_Character_BP_C"
+  },
+  {
+    "name": "Deinosuchus",
+    "link": "/wiki/Deinosuchus",
+    "img": "/images/thumb/b/bb/Deinosuchus.png/30px-Deinosuchus.png",
+    "entityId": "Deinosuchusasa_Character_BP_C"
+  },
+  {
+    "name": "Desert Titan",
+    "link": "/wiki/Desert_Titan",
+    "img": "/images/thumb/4/49/Desert_Titan.png/30px-Desert_Titan.png",
+    "entityId": "DesertKaiju_Character_BP_C"
+  },
+  {
+    "name": "Desert Titan Flock",
+    "link": "/wiki/Desert_Titan_Flock",
+    "img": "/images/thumb/5/5d/Desert_Titan_Flock.png/30px-Desert_Titan_Flock.png",
+    "entityId": "DesertKaiju_FirstFlockChar_BP_C"
+  },
+  {
+    "name": "Desmodus",
+    "link": "/wiki/Desmodus",
+    "img": "/images/thumb/f/f0/Desmodus.png/30px-Desmodus.png",
+    "entityId": "Desmodus_Character_BP_C"
+  },
+  {
+    "name": "Dilophosaur",
+    "link": "/wiki/Dilophosaur",
+    "img": "/images/thumb/c/c9/Dilophosaur.png/30px-Dilophosaur.png",
+    "entityId": "Dilo_Character_BP_C"
+  },
+  {
+    "name": "Dimetrodon",
+    "link": "/wiki/Dimetrodon",
+    "img": "/images/thumb/7/7c/Dimetrodon.png/30px-Dimetrodon.png",
+    "entityId": "Dimetro_Character_BP_C"
+  },
+  {
+    "name": "Dimorphodon",
+    "link": "/wiki/Dimorphodon",
+    "img": "/images/thumb/4/41/Dimorphodon.png/30px-Dimorphodon.png",
+    "entityId": "Dimorph_Character_BP_C"
+  },
+  {
+    "name": "Dinopithecus",
+    "link": "/wiki/Dinopithecus",
+    "img": "/images/thumb/e/ed/Dinopithecus.png/30px-Dinopithecus.png",
+    "entityId": "Dinopithecus_Character_BP_C"
+  },
+  {
+    "name": "Dinopithecus King",
+    "link": "/wiki/Dinopithecus_King",
+    "img": "/images/thumb/1/12/Dinopithecus_King.png/30px-Dinopithecus_King.png",
+    "entityId": "BossDinopithecus_Character_BP_C"
+  },
+  {
+    "name": "Diplocaulus",
+    "link": "/wiki/Diplocaulus",
+    "img": "/images/thumb/5/5c/Diplocaulus.png/30px-Diplocaulus.png",
+    "entityId": "Diplocaulus_Character_BP_C"
+  },
+  {
+    "name": "Diplodocus",
+    "link": "/wiki/Diplodocus",
+    "img": "/images/thumb/e/e6/Diplodocus.png/30px-Diplodocus.png",
+    "entityId": "Diplodocus_Character_BP_C"
+  },
+  {
+    "name": "Dire Bear",
+    "link": "/wiki/Dire_Bear",
+    "img": "/images/thumb/6/6f/Dire_Bear.png/30px-Dire_Bear.png",
+    "entityId": "Direbear_Character_BP_C"
+  },
+  {
+    "name": "Direwolf",
+    "link": "/wiki/Direwolf",
+    "img": "/images/thumb/1/10/Direwolf.png/30px-Direwolf.png",
+    "entityId": "Direwolf_Character_BP_C"
+  },
+  {
+    "name": "Dodo",
+    "link": "/wiki/Dodo",
+    "img": "/images/thumb/f/fc/Dodo.png/30px-Dodo.png",
+    "entityId": "Dodo_Character_BP_C"
+  },
+  {
+    "name": "Doedicurus",
+    "link": "/wiki/Doedicurus",
+    "img": "/images/thumb/8/8b/Doedicurus.png/30px-Doedicurus.png",
+    "entityId": "Doed_Character_BP_C"
+  },
+  {
+    "name": "Dragon",
+    "link": "/wiki/Dragon",
+    "img": "/images/thumb/c/c7/Dragon.png/30px-Dragon.png",
+    "entityId": "Dragon_Character_BP_Boss_C"
+  },
+  {
+    "name": "Dreadnoughtus",
+    "link": "/wiki/Dreadnoughtus",
+    "img": "/images/thumb/7/75/Missing.png/30px-Missing.png",
+    "entityId": "Unknown"
+  },
+  {
+    "name": "Dung Beetle",
+    "link": "/wiki/Dung_Beetle",
+    "img": "/images/thumb/b/b4/Dung_Beetle.png/30px-Dung_Beetle.png",
+    "entityId": "DungBeetle_Character_BP_C"
+  },
+  {
+    "name": "Dunkleosteus",
+    "link": "/wiki/Dunkleosteus",
+    "img": "/images/thumb/e/e5/Dunkleosteus.png/30px-Dunkleosteus.png",
+    "entityId": "Dunkle_Character_BP_C"
+  },
+  {
+    "name": "Eel Minion",
+    "link": "/wiki/Eel_Minion",
+    "img": "/images/thumb/b/bd/Moeder%2C_Master_of_the_Ocean.png/30px-Moeder%2C_Master_of_the_Ocean.png",
+    "entityId": "EelBoss_Character_BP_C"
+  },
+  {
+    "name": "Electrophorus",
+    "link": "/wiki/Electrophorus",
+    "img": "/images/thumb/a/a0/Electrophorus.png/30px-Electrophorus.png",
+    "entityId": "Eel_Character_BP_C"
+  },
+  {
+    "name": "Enforcer",
+    "link": "/wiki/Enforcer",
+    "img": "/images/thumb/e/e4/Enforcer.png/30px-Enforcer.png",
+    "entityId": "Enforcer_Character_BP_C"
+  },
+  {
+    "name": "Equus",
+    "link": "/wiki/Equus",
+    "img": "/images/thumb/7/7b/Equus.png/30px-Equus.png",
+    "entityId": "Equus_Character_BP_C"
+  },
+  {
+    "name": "Eurypterid",
+    "link": "/wiki/Eurypterid",
+    "img": "/images/thumb/8/82/Eurypterid.png/30px-Eurypterid.png",
+    "entityId": "Euryp_Character_C"
+  },
+  {
+    "name": "Exo-Mek",
+    "link": "/wiki/Exo-Mek",
+    "img": "/images/thumb/f/fc/Exo-Mek.png/30px-Exo-Mek.png",
+    "entityId": "Exosuit_Character_BP_C"
+  },
+  {
+    "name": "Fasolasuchus",
+    "link": "/wiki/Fasolasuchus",
+    "img": "/images/thumb/c/cf/Fasolasuchus.png/30px-Fasolasuchus.png",
+    "entityId": "Fasola_Character_BP_Aberrant_C"
+  },
+  {
+    "name": "Featherlight",
+    "link": "/wiki/Featherlight",
+    "img": "/images/thumb/c/c9/Featherlight.png/30px-Featherlight.png",
+    "entityId": "LanternBird_Character_BP_C"
+  },
+  {
+    "name": "Fenrir",
+    "link": "/wiki/Fenrir",
+    "img": "/images/thumb/6/6a/Fenrir.png/30px-Fenrir.png",
+    "entityId": "Fenrir_Character_BP_C"
+  },
+  {
+    "name": "Fenrisúlfr",
+    "link": "/wiki/Fenris%C3%BAlfr",
+    "img": "/images/thumb/6/6a/Fenrir.png/30px-Fenrir.png",
+    "entityId": "Fenrir_Character_BP_Boss_C"
+  },
+  {
+    "name": "Ferox",
+    "link": "/wiki/Ferox",
+    "img": "/images/thumb/7/79/Ferox.png/30px-Ferox.png",
+    "entityId": "Shapeshifter_Small_Character_BP_C"
+  },
+  {
+    "name": "Fjordhawk",
+    "link": "/wiki/Fjordhawk",
+    "img": "/images/thumb/b/b9/Fjordhawk.png/30px-Fjordhawk.png",
+    "entityId": "Fjordhawk_Character_BP_C"
+  },
+  {
+    "name": "Forest Titan",
+    "link": "/wiki/Forest_Titan",
+    "img": "/images/thumb/2/28/Forest_Titan.png/30px-Forest_Titan.png",
+    "entityId": "ForestKaiju_Character_BP_C"
+  },
+  {
+    "name": "Gacha",
+    "link": "/wiki/Gacha",
+    "img": "/images/thumb/7/79/Gacha.png/30px-Gacha.png",
+    "entityId": "Gacha_Character_BP_C"
+  },
+  {
+    "name": "Gallimimus",
+    "link": "/wiki/Gallimimus",
+    "img": "/images/thumb/c/ce/Gallimimus.png/30px-Gallimimus.png",
+    "entityId": "Galli_Character_BP_C"
+  },
+  {
+    "name": "Gasbags",
+    "link": "/wiki/Gasbags",
+    "img": "/images/thumb/3/37/Gasbags.png/30px-Gasbags.png",
+    "entityId": "GasBags_Character_BP_C"
+  },
+  {
+    "name": "Giant Bee",
+    "link": "/wiki/Giant_Bee",
+    "img": "/images/thumb/4/45/Giant_Bee.png/30px-Giant_Bee.png",
+    "entityId": "Bee_Character_BP_C"
+  },
+  {
+    "name": "Giant Queen Bee",
+    "link": "/wiki/Giant_Queen_Bee",
+    "img": "/images/thumb/0/0e/Giant_Queen_Bee.png/30px-Giant_Queen_Bee.png",
+    "entityId": "Bee_Queen_Character_BP_C"
+  },
+  {
+    "name": "Giganotosaurus",
+    "link": "/wiki/Giganotosaurus",
+    "img": "/images/thumb/d/d3/Giganotosaurus.png/30px-Giganotosaurus.png",
+    "entityId": "Gigant_Character_BP_C"
+  },
+  {
+    "name": "Gigantopithecus",
+    "link": "/wiki/Gigantopithecus",
+    "img": "/images/thumb/6/66/Gigantopithecus.png/30px-Gigantopithecus.png",
+    "entityId": "Bigfoot_Character_BP_C"
+  },
+  {
+    "name": "Glowbug",
+    "link": "/wiki/Glowbug",
+    "img": "/images/thumb/b/b3/Glowbug.png/30px-Glowbug.png",
+    "entityId": "Lightbug_Character_BaseBP_C"
+  },
+  {
+    "name": "Glowtail",
+    "link": "/wiki/Glowtail",
+    "img": "/images/thumb/c/c6/Glowtail.png/30px-Glowtail.png",
+    "entityId": "LanternLizard_Character_BP_C"
+  },
+  {
+    "name": "Griffin",
+    "link": "/wiki/Griffin",
+    "img": "/images/thumb/f/f8/Griffin.png/30px-Griffin.png",
+    "entityId": "Griffin_Character_BP_C"
+  },
+  {
+    "name": "Hati and Sköll",
+    "link": "/wiki/Hati_and_Sk%C3%B6ll",
+    "img": "/images/thumb/a/a1/Hati_and_Sk%C3%B6ll.png/30px-Hati_and_Sk%C3%B6ll.png",
+    "entityId": "<strong_class=\"error\"><span_class=\"scribunto-error\"_id=\"mw-scribunto-error-0\">Lua_error_in_Module:Utility_at_line_122:_attempt_to_index_local_'className'_(a_nil_value)."
+  },
+  {
+    "name": "Hesperornis",
+    "link": "/wiki/Hesperornis",
+    "img": "/images/thumb/c/cf/Hesperornis.png/30px-Hesperornis.png",
+    "entityId": "Hesperornis_Character_BP_C"
+  },
+  {
+    "name": "Human",
+    "link": "/wiki/Human",
+    "img": "/images/thumb/6/6e/Human.png/30px-Human.png",
+    "entityId": "PlayerPawnTest_Male_C"
+  },
+  {
+    "name": "Hyaenodon",
+    "link": "/wiki/Hyaenodon",
+    "img": "/images/thumb/9/9e/Hyaenodon.png/30px-Hyaenodon.png",
+    "entityId": "Hyaenodon_Character_BP_C"
+  },
+  {
+    "name": "Ice Titan",
+    "link": "/wiki/Ice_Titan",
+    "img": "/images/thumb/d/dc/Ice_Titan.png/30px-Ice_Titan.png",
+    "entityId": "IceKaiju_Character_BP_C"
+  },
+  {
+    "name": "Ichthyornis",
+    "link": "/wiki/Ichthyornis",
+    "img": "/images/thumb/5/51/Ichthyornis.png/30px-Ichthyornis.png",
+    "entityId": "Ichthyornis_Character_BP_C"
+  },
+  {
+    "name": "Ichthyosaurus",
+    "link": "/wiki/Ichthyosaurus",
+    "img": "/images/thumb/8/89/Ichthyosaurus.png/30px-Ichthyosaurus.png",
+    "entityId": "Dolphin_Character_BP_C"
+  },
+  {
+    "name": "Iguanodon",
+    "link": "/wiki/Iguanodon",
+    "img": "/images/thumb/9/94/Iguanodon.png/30px-Iguanodon.png",
+    "entityId": "Iguanodon_Character_BP_C"
+  },
+  {
+    "name": "Insect Swarm",
+    "link": "/wiki/Insect_Swarm",
+    "img": "/images/thumb/a/a7/Insect_Swarm.png/30px-Insect_Swarm.png",
+    "entityId": "InsectSwarmChar_BP_C"
+  },
+  {
+    "name": "Jerboa",
+    "link": "/wiki/Jerboa",
+    "img": "/images/thumb/7/7a/Jerboa.png/30px-Jerboa.png",
+    "entityId": "Jerboa_Character_BP_C"
+  },
+  {
+    "name": "Jug Bug",
+    "link": "/wiki/Jug_Bug",
+    "img": "/images/thumb/3/32/Jug_Bug.png/30px-Jug_Bug.png",
+    "entityId": "Jugbug_Character_BaseBP_C"
+  },
+  {
+    "name": "Kairuku",
+    "link": "/wiki/Kairuku",
+    "img": "/images/thumb/a/a3/Kairuku.png/30px-Kairuku.png",
+    "entityId": "Kairuku_Character_BP_C"
+  },
+  {
+    "name": "Kaprosuchus",
+    "link": "/wiki/Kaprosuchus",
+    "img": "/images/thumb/8/89/Kaprosuchus.png/30px-Kaprosuchus.png",
+    "entityId": "Kaprosuchus_Character_BP_C"
+  },
+  {
+    "name": "Karkinos",
+    "link": "/wiki/Karkinos",
+    "img": "/images/thumb/4/40/Karkinos.png/30px-Karkinos.png",
+    "entityId": "Crab_Character_BP_C"
+  },
+  {
+    "name": "Kentrosaurus",
+    "link": "/wiki/Kentrosaurus",
+    "img": "/images/thumb/2/20/Kentrosaurus.png/30px-Kentrosaurus.png",
+    "entityId": "Kentro_Character_BP_C"
+  },
+  {
+    "name": "King Titan",
+    "link": "/wiki/King_Titan",
+    "img": "/images/thumb/8/82/King_Titan.png/30px-King_Titan.png",
+    "entityId": "KingKaiju_Character_BP_C"
+  },
+  {
+    "name": "Lamprey",
+    "link": "/wiki/Lamprey",
+    "img": "/images/thumb/2/2c/Lamprey.png/30px-Lamprey.png",
+    "entityId": "Lamprey_Character_C"
+  },
+  {
+    "name": "Leech",
+    "link": "/wiki/Leech",
+    "img": "/images/thumb/3/32/Leech.png/30px-Leech.png",
+    "entityId": "Leech_Character_C"
+  },
+  {
+    "name": "Leedsichthys",
+    "link": "/wiki/Leedsichthys",
+    "img": "/images/thumb/0/00/Leedsichthys.png/30px-Leedsichthys.png",
+    "entityId": "Leedsichthys_Character_BP_C"
+  },
+  {
+    "name": "Liopleurodon",
+    "link": "/wiki/Liopleurodon",
+    "img": "/images/thumb/f/f8/Liopleurodon.png/30px-Liopleurodon.png",
+    "entityId": "Liopleurodon_Character_BP_C"
+  },
+  {
+    "name": "Lymantria",
+    "link": "/wiki/Lymantria",
+    "img": "/images/thumb/1/1d/Lymantria.png/30px-Lymantria.png",
+    "entityId": "Moth_Character_BP_C"
+  },
+  {
+    "name": "Lystrosaurus",
+    "link": "/wiki/Lystrosaurus",
+    "img": "/images/thumb/9/93/Lystrosaurus.png/30px-Lystrosaurus.png",
+    "entityId": "Lystro_Character_BP_C"
+  },
+  {
+    "name": "Macrophage",
+    "link": "/wiki/Macrophage",
+    "img": "/images/thumb/0/0e/Macrophage.png/30px-Macrophage.png",
+    "entityId": "Macrophage_Swarm_Character_C"
+  },
+  {
+    "name": "Maewing",
+    "link": "/wiki/Maewing",
+    "img": "/images/thumb/5/55/Maewing.png/30px-Maewing.png",
+    "entityId": "MilkGlider_Character_BP_C"
+  },
+  {
+    "name": "Magmasaur",
+    "link": "/wiki/Magmasaur",
+    "img": "/images/thumb/3/35/Magmasaur.png/30px-Magmasaur.png",
+    "entityId": "Cherufe_Character_BP_C"
+  },
+  {
+    "name": "Mammoth",
+    "link": "/wiki/Mammoth",
+    "img": "/images/thumb/a/a5/Mammoth.png/30px-Mammoth.png",
+    "entityId": "Mammoth_Character_BP_C"
+  },
+  {
+    "name": "Managarmr",
+    "link": "/wiki/Managarmr",
+    "img": "/images/thumb/e/e7/Managarmr.png/30px-Managarmr.png",
+    "entityId": "IceJumper_Character_BP_C"
+  },
+  {
+    "name": "Manta",
+    "link": "/wiki/Manta",
+    "img": "/images/thumb/2/2d/Manta.png/30px-Manta.png",
+    "entityId": "Manta_Character_BP_C"
+  },
+  {
+    "name": "Manticore",
+    "link": "/wiki/Manticore",
+    "img": "/images/thumb/0/03/Manticore.png/30px-Manticore.png",
+    "entityId": "Manticore_Character_BP_C"
+  },
+  {
+    "name": "Mantis",
+    "link": "/wiki/Mantis",
+    "img": "/images/thumb/4/48/Mantis.png/30px-Mantis.png",
+    "entityId": "Mantis_Character_BP_C"
+  },
+  {
+    "name": "Mega Mek",
+    "link": "/wiki/Mega_Mek",
+    "img": "/images/thumb/1/1e/Mega_Mek.png/30px-Mega_Mek.png",
+    "entityId": "MegaMek_Character_BP_C"
+  },
+  {
+    "name": "Megachelon",
+    "link": "/wiki/Megachelon",
+    "img": "/images/thumb/a/a4/Megachelon.png/30px-Megachelon.png",
+    "entityId": "GiantTurtle_Character_BP_C"
+  },
+  {
+    "name": "Megalania",
+    "link": "/wiki/Megalania",
+    "img": "/images/thumb/5/58/Megalania.png/30px-Megalania.png",
+    "entityId": "Megalania_Character_BP_C"
+  },
+  {
+    "name": "Megaloceros",
+    "link": "/wiki/Megaloceros",
+    "img": "/images/thumb/6/69/Megaloceros.png/30px-Megaloceros.png",
+    "entityId": "Stag_Character_BP_C"
+  },
+  {
+    "name": "Megalodon",
+    "link": "/wiki/Megalodon",
+    "img": "/images/thumb/3/36/Megalodon.png/30px-Megalodon.png",
+    "entityId": "Megalodon_Character_BP_C"
+  },
+  {
+    "name": "Megalosaurus",
+    "link": "/wiki/Megalosaurus",
+    "img": "/images/thumb/7/7e/Megalosaurus.png/30px-Megalosaurus.png",
+    "entityId": "Megalosaurus_Character_BP_C"
+  },
+  {
+    "name": "Meganeura",
+    "link": "/wiki/Meganeura",
+    "img": "/images/thumb/8/81/Meganeura.png/30px-Meganeura.png",
+    "entityId": "Dragonfly_Character_BP_C"
+  },
+  {
+    "name": "Megapithecus",
+    "link": "/wiki/Megapithecus",
+    "img": "/images/thumb/7/7d/Megapithecus.png/30px-Megapithecus.png",
+    "entityId": "Gorilla_Character_BP_C"
+  },
+  {
+    "name": "Megatherium",
+    "link": "/wiki/Megatherium",
+    "img": "/images/thumb/3/37/Megatherium.png/30px-Megatherium.png",
+    "entityId": "Megatherium_Character_BP_C"
+  },
+  {
+    "name": "Mek",
+    "link": "/wiki/Mek",
+    "img": "/images/thumb/7/74/Mek.png/30px-Mek.png",
+    "entityId": "Mek_Character_BP_C"
+  },
+  {
+    "name": "Mesopithecus",
+    "link": "/wiki/Mesopithecus",
+    "img": "/images/thumb/c/c6/Mesopithecus.png/30px-Mesopithecus.png",
+    "entityId": "Monkey_Character_BP_C"
+  },
+  {
+    "name": "Microraptor",
+    "link": "/wiki/Microraptor",
+    "img": "/images/thumb/6/69/Microraptor.png/30px-Microraptor.png",
+    "entityId": "Microraptor_Character_BP_C"
+  },
+  {
+    "name": "Moeder, Master of the Ocean",
+    "link": "/wiki/Moeder,_Master_of_the_Ocean",
+    "img": "/images/thumb/b/bd/Moeder%2C_Master_of_the_Ocean.png/30px-Moeder%2C_Master_of_the_Ocean.png",
+    "entityId": "EelBoss_Character_BP_C"
+  },
+  {
+    "name": "Morellatops",
+    "link": "/wiki/Morellatops",
+    "img": "/images/thumb/5/54/Morellatops.png/30px-Morellatops.png",
+    "entityId": "camelsaurus_Character_BP_C"
+  },
+  {
+    "name": "Mosasaurus",
+    "link": "/wiki/Mosasaurus",
+    "img": "/images/thumb/b/b0/Mosasaurus.png/30px-Mosasaurus.png",
+    "entityId": "Mosa_Character_BP_C"
+  },
+  {
+    "name": "Moschops",
+    "link": "/wiki/Moschops",
+    "img": "/images/thumb/e/e6/Moschops.png/30px-Moschops.png",
+    "entityId": "Moschops_Character_BP_C"
+  },
+  {
+    "name": "Nameless",
+    "link": "/wiki/Nameless",
+    "img": "/images/thumb/6/66/Nameless.png/30px-Nameless.png",
+    "entityId": "ChupaCabra_Character_BP_C"
+  },
+  {
+    "name": "Noglin",
+    "link": "/wiki/Noglin",
+    "img": "/images/thumb/4/43/Noglin.png/30px-Noglin.png",
+    "entityId": "BrainSlug_Character_BP_C"
+  },
+  {
+    "name": "Oasisaur",
+    "link": "/wiki/Oasisaur",
+    "img": "/images/thumb/9/96/Oasisaur.png/30px-Oasisaur.png",
+    "entityId": "Oasisaur_Character_BP_C"
+  },
+  {
+    "name": "Onyc",
+    "link": "/wiki/Onyc",
+    "img": "/images/thumb/5/55/Onyc.png/30px-Onyc.png",
+    "entityId": "Bat_Character_BP_C"
+  },
+  {
+    "name": "Otter",
+    "link": "/wiki/Otter",
+    "img": "/images/thumb/9/9f/Otter.png/30px-Otter.png",
+    "entityId": "Otter_Character_BP_C"
+  },
+  {
+    "name": "Overseer",
+    "link": "/wiki/Overseer",
+    "img": "/images/thumb/f/f5/Overseer.png/30px-Overseer.png",
+    "entityId": "EndBoss_Character_C"
+  },
+  {
+    "name": "Oviraptor",
+    "link": "/wiki/Oviraptor",
+    "img": "/images/thumb/7/74/Oviraptor.png/30px-Oviraptor.png",
+    "entityId": "Oviraptor_Character_BP_C"
+  },
+  {
+    "name": "Ovis",
+    "link": "/wiki/Ovis",
+    "img": "/images/thumb/7/79/Ovis.png/30px-Ovis.png",
+    "entityId": "Sheep_Character_BP_C"
+  },
+  {
+    "name": "Pachy",
+    "link": "/wiki/Pachy",
+    "img": "/images/thumb/f/f8/Pachy.png/30px-Pachy.png",
+    "entityId": "Pachy_Character_BP_C"
+  },
+  {
+    "name": "Pachyrhinosaurus",
+    "link": "/wiki/Pachyrhinosaurus",
+    "img": "/images/thumb/d/d8/Pachyrhinosaurus.png/30px-Pachyrhinosaurus.png",
+    "entityId": "Pachyrhino_Character_BP_C"
+  },
+  {
+    "name": "Paraceratherium",
+    "link": "/wiki/Paraceratherium",
+    "img": "/images/thumb/e/e1/Paraceratherium.png/30px-Paraceratherium.png",
+    "entityId": "Paracer_Character_BP_C"
+  },
+  {
+    "name": "Parakeet Fish School",
+    "link": "/wiki/Parakeet_Fish_School",
+    "img": "/images/thumb/c/c4/Parakeet_Fish_School.png/30px-Parakeet_Fish_School.png",
+    "entityId": "MicrobeSwarmChar_BP_C"
+  },
+  {
+    "name": "Parasaur",
+    "link": "/wiki/Parasaur",
+    "img": "/images/thumb/6/65/Parasaur.png/30px-Parasaur.png",
+    "entityId": "Para_Character_BP_C"
+  },
+  {
+    "name": "Pegomastax",
+    "link": "/wiki/Pegomastax",
+    "img": "/images/thumb/9/92/Pegomastax.png/30px-Pegomastax.png",
+    "entityId": "Pegomastax_Character_BP_C"
+  },
+  {
+    "name": "Pelagornis",
+    "link": "/wiki/Pelagornis",
+    "img": "/images/thumb/7/7f/Pelagornis.png/30px-Pelagornis.png",
+    "entityId": "Pela_Character_BP_C"
+  },
+  {
+    "name": "Phiomia",
+    "link": "/wiki/Phiomia",
+    "img": "/images/thumb/b/b0/Phiomia.png/30px-Phiomia.png",
+    "entityId": "Phiomia_Character_BP_C"
+  },
+  {
+    "name": "Phoenix",
+    "link": "/wiki/Phoenix",
+    "img": "/images/thumb/c/c1/Phoenix.png/30px-Phoenix.png",
+    "entityId": "Phoenix_Character_BP_C"
+  },
+  {
+    "name": "Piranha",
+    "link": "/wiki/Piranha",
+    "img": "/images/thumb/4/43/Piranha.png/30px-Piranha.png",
+    "entityId": "Piranha_Character_BP_C"
+  },
+  {
+    "name": "Plesiosaur",
+    "link": "/wiki/Plesiosaur",
+    "img": "/images/thumb/4/43/Plesiosaur.png/30px-Plesiosaur.png",
+    "entityId": "Plesiosaur_Character_BP_C"
+  },
+  {
+    "name": "Procoptodon",
+    "link": "/wiki/Procoptodon",
+    "img": "/images/thumb/d/da/Procoptodon.png/30px-Procoptodon.png",
+    "entityId": "Procoptodon_Character_BP_C"
+  },
+  {
+    "name": "Pteranodon",
+    "link": "/wiki/Pteranodon",
+    "img": "/images/thumb/2/22/Pteranodon.png/30px-Pteranodon.png",
+    "entityId": "Ptero_Character_BP_C"
+  },
+  {
+    "name": "Pulmonoscorpius",
+    "link": "/wiki/Pulmonoscorpius",
+    "img": "/images/thumb/a/ab/Scorpion.png/30px-Scorpion.png",
+    "entityId": "Scorpion_Character_BP_C"
+  },
+  {
+    "name": "Purlovia",
+    "link": "/wiki/Purlovia",
+    "img": "/images/thumb/c/c2/Purlovia.png/30px-Purlovia.png",
+    "entityId": "Purlovia_Character_BP_C"
+  },
+  {
+    "name": "Pyromane",
+    "link": "/wiki/Pyromane",
+    "img": "/images/thumb/f/fd/Pyromane.png/30px-Pyromane.png",
+    "entityId": "FireLion_Character_BP_C"
+  },
+  {
+    "name": "Quetzal",
+    "link": "/wiki/Quetzal",
+    "img": "/images/thumb/9/9d/Quetzal.png/30px-Quetzal.png",
+    "entityId": "Quetz_Character_BP_C"
+  },
+  {
+    "name": "Raptor",
+    "link": "/wiki/Raptor",
+    "img": "/images/thumb/0/08/Raptor.png/30px-Raptor.png",
+    "entityId": "Raptor_Character_BP_C"
+  },
+  {
+    "name": "Ravager",
+    "link": "/wiki/Ravager",
+    "img": "/images/thumb/c/ca/Ravager.png/30px-Ravager.png",
+    "entityId": "CaveWolf_Character_BP_C"
+  },
+  {
+    "name": "Reaper",
+    "link": "/wiki/Reaper",
+    "img": "/images/thumb/6/6a/Reaper.png/30px-Reaper.png",
+    "entityId": "Xenomorph_Character_BP_Male_C"
+  },
+  {
+    "name": "Rex",
+    "link": "/wiki/Rex",
+    "img": "/images/thumb/5/5f/Rex.png/30px-Rex.png",
+    "entityId": "Rex_Character_BP_C"
+  },
+  {
+    "name": "Rhyniognatha",
+    "link": "/wiki/Rhyniognatha",
+    "img": "/images/thumb/1/19/Rhyniognatha.png/30px-Rhyniognatha.png",
+    "entityId": "Rhynio_Character_BP_C"
+  },
+  {
+    "name": "Rock Drake",
+    "link": "/wiki/Rock_Drake",
+    "img": "/images/thumb/e/e5/Rock_Drake.png/30px-Rock_Drake.png",
+    "entityId": "RockDrake_Character_BP_C"
+  },
+  {
+    "name": "Rock Elemental",
+    "link": "/wiki/Rock_Elemental",
+    "img": "/images/thumb/f/f0/Rock_Elemental.png/30px-Rock_Elemental.png",
+    "entityId": "RockGolem_Character_BP_C"
+  },
+  {
+    "name": "Rockwell",
+    "link": "/wiki/Rockwell",
+    "img": "/images/thumb/b/b0/Rockwell.png/30px-Rockwell.png",
+    "entityId": "Rockwell_Character_BP_C"
+  },
+  {
+    "name": "Rockwell Node",
+    "link": "/wiki/Rockwell_Node",
+    "img": "/images/thumb/8/87/Rockwell_Node.png/30px-Rockwell_Node.png",
+    "entityId": "RockwellNode_Character_BP_FinalFight_C"
+  },
+  {
+    "name": "Rockwell Prime",
+    "link": "/wiki/Rockwell_Prime",
+    "img": "/images/thumb/c/cc/Rockwell_Prime.png/30px-Rockwell_Prime.png",
+    "entityId": "RockwellNode_Character_BP_FinalFight_C"
+  },
+  {
+    "name": "Roll Rat",
+    "link": "/wiki/Roll_Rat",
+    "img": "/images/thumb/d/d9/Roll_Rat.png/30px-Roll_Rat.png",
+    "entityId": "MoleRat_Character_BP_C"
+  },
+  {
+    "name": "Rubble Bear",
+    "link": "/wiki/Rubble_Bear",
+    "img": "/images/thumb/e/ed/Rubble_Bear.png/30px-Rubble_Bear.png",
+    "entityId": "Direbear_Character_BP_SteinbjornMinion_C"
+  },
+  {
+    "name": "Sabertooth",
+    "link": "/wiki/Sabertooth",
+    "img": "/images/thumb/a/a4/Sabertooth.png/30px-Sabertooth.png",
+    "entityId": "Saber_Character_BP_C"
+  },
+  {
+    "name": "Sabertooth Salmon",
+    "link": "/wiki/Sabertooth_Salmon",
+    "img": "/images/thumb/e/e0/Salmon.png/30px-Salmon.png",
+    "entityId": "Salmon_Character_BP_C"
+  },
+  {
+    "name": "Sarco",
+    "link": "/wiki/Sarco",
+    "img": "/images/thumb/4/41/Sarco.png/30px-Sarco.png",
+    "entityId": "Sarco_Character_BP_C"
+  },
+  {
+    "name": "Scout",
+    "link": "/wiki/Scout",
+    "img": "/images/thumb/6/69/Scout.png/30px-Scout.png",
+    "entityId": "Scout_Character_BP_C"
+  },
+  {
+    "name": "Seeker",
+    "link": "/wiki/Seeker",
+    "img": "/images/thumb/5/54/Seeker.png/30px-Seeker.png",
+    "entityId": "Pteroteuthis_Char_BP_C"
+  },
+  {
+    "name": "Shadowmane",
+    "link": "/wiki/Shadowmane",
+    "img": "/images/thumb/e/e8/Shadowmane.png/30px-Shadowmane.png",
+    "entityId": "LionfishLion_Character_BP_C"
+  },
+  {
+    "name": "Shastasaurus",
+    "link": "/wiki/Shastasaurus",
+    "img": "/images/thumb/f/f4/Shastasaurus.png/30px-Shastasaurus.png",
+    "entityId": "Shastasaurus_Character_BP_C"
+  },
+  {
+    "name": "Shinehorn",
+    "link": "/wiki/Shinehorn",
+    "img": "/images/thumb/2/21/Shinehorn.png/30px-Shinehorn.png",
+    "entityId": "LanternGoat_Character_BP_C"
+  },
+  {
+    "name": "Sinomacrops",
+    "link": "/wiki/Sinomacrops",
+    "img": "/images/thumb/0/07/Sinomacrops.png/30px-Sinomacrops.png",
+    "entityId": "Sinomacrops_Character_BP_C"
+  },
+  {
+    "name": "Sir-5rM8",
+    "link": "/wiki/Sir-5rM8",
+    "img": "/images/thumb/c/c5/Sir-5rM8.png/30px-Sir-5rM8.png",
+    "entityId": "Unknown"
+  },
+  {
+    "name": "Snow Owl",
+    "link": "/wiki/Snow_Owl",
+    "img": "/images/thumb/4/4b/Snow_Owl.png/30px-Snow_Owl.png",
+    "entityId": "Owl_Character_BP_C"
+  },
+  {
+    "name": "Spino",
+    "link": "/wiki/Spino",
+    "img": "/images/thumb/0/03/Spino.png/30px-Spino.png",
+    "entityId": "Spino_Character_BP_C"
+  },
+  {
+    "name": "Stegosaurus",
+    "link": "/wiki/Stegosaurus",
+    "img": "/images/thumb/c/cd/Stegosaurus.png/30px-Stegosaurus.png",
+    "entityId": "Stego_Character_BP_C"
+  },
+  {
+    "name": "Steinbjörn",
+    "link": "/wiki/Steinbj%C3%B6rn",
+    "img": "/images/thumb/2/23/Steinbj%C3%B6rn.png/30px-Steinbj%C3%B6rn.png",
+    "entityId": "Steinbjorn_Character_BP_C"
+  },
+  {
+    "name": "Summoner",
+    "link": "/wiki/Summoner",
+    "img": "/images/thumb/2/2f/Summoner.png/30px-Summoner.png",
+    "entityId": "Summoner_Character_BP_C"
+  },
+  {
+    "name": "Tapejara",
+    "link": "/wiki/Tapejara",
+    "img": "/images/thumb/e/ec/Tapejara.png/30px-Tapejara.png",
+    "entityId": "Tapejara_Character_BP_C"
+  },
+  {
+    "name": "Tek Stryder",
+    "link": "/wiki/Tek_Stryder",
+    "img": "/images/thumb/9/97/Tek_Stryder.png/30px-Tek_Stryder.png",
+    "entityId": "TekStrider_Character_BP_C"
+  },
+  {
+    "name": "Terror Bird",
+    "link": "/wiki/Terror_Bird",
+    "img": "/images/thumb/e/e3/Terror_Bird.png/30px-Terror_Bird.png",
+    "entityId": "TerrorBird_Character_BP_C"
+  },
+  {
+    "name": "Therizinosaur",
+    "link": "/wiki/Therizinosaur",
+    "img": "/images/thumb/6/66/Therizinosaur.png/30px-Therizinosaur.png",
+    "entityId": "Therizino_Character_BP_C"
+  },
+  {
+    "name": "Thorny Dragon",
+    "link": "/wiki/Thorny_Dragon",
+    "img": "/images/thumb/2/2f/Thorny_Dragon.png/30px-Thorny_Dragon.png",
+    "entityId": "SpineyLizard_Character_BP_C"
+  },
+  {
+    "name": "Thylacoleo",
+    "link": "/wiki/Thylacoleo",
+    "img": "/images/thumb/2/22/Thylacoleo.png/30px-Thylacoleo.png",
+    "entityId": "Thylacoleo_Character_BP_C"
+  },
+  {
+    "name": "Titanoboa",
+    "link": "/wiki/Titanoboa",
+    "img": "/images/thumb/b/b6/Titanoboa.png/30px-Titanoboa.png",
+    "entityId": "BoaFrill_Character_BP_C"
+  },
+  {
+    "name": "Titanomyrma",
+    "link": "/wiki/Titanomyrma",
+    "img": "/images/thumb/d/d8/Titanomyrma.png/30px-Titanomyrma.png",
+    "entityId": "Ant_Character_BP_C"
+  },
+  {
+    "name": "Titanosaur",
+    "link": "/wiki/Titanosaur",
+    "img": "/images/thumb/e/e7/Titanosaur.png/30px-Titanosaur.png",
+    "entityId": "Titanosaur_Character_BP_C"
+  },
+  {
+    "name": "Triceratops",
+    "link": "/wiki/Triceratops",
+    "img": "/images/thumb/2/2d/Trike.png/30px-Trike.png",
+    "entityId": "Trike_Character_BP_C"
+  },
+  {
+    "name": "Trilobite",
+    "link": "/wiki/Trilobite",
+    "img": "/images/thumb/2/2b/Trilobite.png/30px-Trilobite.png",
+    "entityId": "Trilobite_Character_C"
+  },
+  {
+    "name": "Troodon",
+    "link": "/wiki/Troodon",
+    "img": "/images/thumb/e/e9/Troodon.png/30px-Troodon.png",
+    "entityId": "Troodon_Character_BP_C"
+  },
+  {
+    "name": "Tropeognathus",
+    "link": "/wiki/Tropeognathus",
+    "img": "/images/thumb/9/94/Tropeognathus.png/30px-Tropeognathus.png",
+    "entityId": "Tropeognathus_Character_BP_C"
+  },
+  {
+    "name": "Tusoteuthis",
+    "link": "/wiki/Tusoteuthis",
+    "img": "/images/thumb/3/37/Tusoteuthis.png/30px-Tusoteuthis.png",
+    "entityId": "Tusoteuthis_Character_BP_C"
+  },
+  {
+    "name": "Unicorn",
+    "link": "/wiki/Unicorn",
+    "img": "/images/thumb/7/7e/Unicorn.png/30px-Unicorn.png",
+    "entityId": "Equus_Character_BP_Unicorn_C"
+  },
+  {
+    "name": "Velonasaur",
+    "link": "/wiki/Velonasaur",
+    "img": "/images/thumb/0/00/Velonasaur.png/30px-Velonasaur.png",
+    "entityId": "Spindles_Character_BP_C"
+  },
+  {
+    "name": "Voidwyrm",
+    "link": "/wiki/Voidwyrm",
+    "img": "/images/thumb/4/4c/Voidwyrm.png/30px-Voidwyrm.png",
+    "entityId": "TekWyvern_Character_BP_C"
+  },
+  {
+    "name": "Vulture",
+    "link": "/wiki/Vulture",
+    "img": "/images/thumb/0/01/Vulture.png/30px-Vulture.png",
+    "entityId": "Vulture_Character_BP_C"
+  },
+  {
+    "name": "Woolly Rhino",
+    "link": "/wiki/Woolly_Rhino",
+    "img": "/images/thumb/d/d4/Woolly_Rhinoceros.png/30px-Woolly_Rhinoceros.png",
+    "entityId": "Rhino_Character_BP_C"
+  },
+  {
+    "name": "Wyvern",
+    "link": "/wiki/Wyvern",
+    "img": "/images/thumb/c/c1/Wyvern.png/30px-Wyvern.png",
+    "entityId": "Wyvern_Character_BP_Base_C"
+  },
+  {
+    "name": "Xiphactinus",
+    "link": "/wiki/Xiphactinus",
+    "img": "/images/thumb/b/bf/Xiphactinus.png/30px-Xiphactinus.png",
+    "entityId": "Xiphactinus_Character_BP_ASA_C"
+  },
+  {
+    "name": "Yi Ling",
+    "link": "/wiki/Yi_Ling",
+    "img": "/images/thumb/8/89/Yi_Ling.png/30px-Yi_Ling.png",
+    "entityId": "YiLing_Character_BP_C"
+  },
+  {
+    "name": "Yutyrannus",
+    "link": "/wiki/Yutyrannus",
+    "img": "/images/thumb/b/b8/Yutyrannus.png/30px-Yutyrannus.png",
+    "entityId": "Yutyrannus_Character_BP_C"
+  }
+]

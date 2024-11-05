@@ -2,3 +2,4 @@ node_modules/
 src/unopar/data/*
 !src/unopar/data/.gitkeep
 src/unopar/websites/**/*.htm
+src/ark/websites/Creatures - ARK Official Community Wiki.htm

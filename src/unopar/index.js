@@ -48,7 +48,7 @@ async function main() {
 
     saveInformation()
 
-    //await apiService.send(courses)
+    await apiService.send(courses)
 
     findActivities();
 
